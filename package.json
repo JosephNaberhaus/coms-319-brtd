@@ -58,7 +58,7 @@
         "esm": "^3.2.9",
         "express": "^4.16.4",
         "express-session": "^1.15.6",
-        "ip": "^1.1.5",
+        "ip": "^2.0.1",
         "mongoose": "^5.4.20",
         "nodemailer": "^6.1.0",
         "passport": "^0.4.0",
